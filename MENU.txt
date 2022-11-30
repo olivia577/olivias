@@ -1,0 +1,13 @@
+GUISADO	CAZUELA	COSTO 
+Adobo de res o cerdo	GRANDE	 $690.00 
+Chicharrón guisado	CHICA	 $690.00 
+Cochinita pibil	GRANDE	 $690.00 
+Frijoles con chorizo	CHICA	 $690.00 
+Tinga de pollo	GRANDE	 $690.00 
+Papas con chorizo	MEDIANA	 $690.00 
+Romeritos (temporada)	GRANDE	" $1,180.00 "
+ Acelgas con Papa y Queso	GRANDE	 $690.00 
+Rajas con Crema	MEDIANA	 $690.00 
+		
+		
+		
